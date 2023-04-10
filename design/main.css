@@ -1,0 +1,179 @@
+.better__future{
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #26335D;
+    width: 100%;
+    font-family: 'Montserrat';
+    padding-bottom: 82px;
+    margin-left: 0px;
+    
+}
+
+.better__future label{
+    color: #FF6551;
+    font-size: 16px;
+}
+h1{
+    color: #fff;
+    font-size: 58px;
+}
+
+.better__future p{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 38px;
+    padding-bottom: 20px;
+}
+.future__buttons ul li {
+    list-style: none;
+    display: inline;
+    
+}
+
+.future__buttons ul li a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.future__buttons .qoute__button{
+    font-size: 14px;
+    background-color: #FF6551;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
+.future__buttons .learn__button{
+    padding: 15px 40px;
+    color: #FF6551;
+    border: 1px solid #FF6551;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
+.future__texts{
+    padding-right: 100px;
+
+}
+
+.popular__courses{
+    display: flex;
+    padding-top: 150px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'Montserrat';
+}
+
+.popular__texts{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+}
+
+.course__cards{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 60px 50px;
+    gap: 34px;
+    padding-bottom: 120px;
+    margin-bottom:100px ;    
+    
+}
+
+.popular__texts label{
+    color: #FF6551;
+    font-size: 14px;
+}
+.popular__texts h2{
+    color: #252B42;
+    font-size: 48px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+.popular__texts p{
+    color: #737373;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 28px;
+} 
+
+.course__cards p{
+    color: #737373;
+
+}
+
+.training__card__2{
+    background-color: #FF6551;
+    color: #fff;
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 40px;
+    flex-shrink: 0;
+}
+
+.training__card__2 p{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.training__card__2 #hat__icon{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px 15px;
+}
+
+.teacher__card {
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 40px;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    flex-shrink: 0;
+}
+
+.teacher__card__2{
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 40px;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    margin-top: 50px;
+    margin-bottom: -50px;
+    flex-shrink: 0;
+}
+.training__card{
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 40px;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    margin-top: 50px;
+    margin-bottom: -50px;
+    flex-shrink: 0;
+    
+}
+
+.training__card #tele__logo{
+    background-color: #DDEEFE;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
